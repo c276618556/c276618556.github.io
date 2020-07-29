@@ -18,7 +18,7 @@ CCTV-15蓝光,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3
 CCTV-17蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226990/1.m3u8
 CCTV-4K蓝码,http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
 纯享4K频道,http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
-地方卫视#genre#
+地方卫视,#genre#
 重庆新闻,http://219.153.252.50/PLTV/88888888/224/3221225531/chunklist.m3u8
 北京卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225728/index.m3u8
 天津卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
@@ -90,7 +90,8 @@ TVB明珠,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otyp
 信吉电视,http://220.130.241.203:1935/sjtv/livestream_360p/playlist.m3u8
 唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 卫视卡视,http://iliketot.dyndns.tv/c8233976dbba4a06a101780907447375.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAxNyAxOjM2OjExIEFNJmhhc2hfdmFsdWU9T1lvZDZ5TjFaWk53M3J4OWZOTWtFUT09JnZhbGlkbWludXRlcz0yJmlkPW1jZ2x5bWFyfDc2MXxpcHR2aGVyb3wxNTA4NjM2MTcxfDIyMy4yMDUuMTIyLjE2Nw
-国际电视#genre#
+国际电视,#genre#
+新加坡新传媒8,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 NBC电视,http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?fluxustv.m3u8
 CBS新闻,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 美国之音,https://n06.radiojar.com/7thwu53r92quv?rj-ttl=5&rj-tok=AAABcniNbcoAWAFftFB8zhnk2A
